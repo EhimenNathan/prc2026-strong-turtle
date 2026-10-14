@@ -1,0 +1,8 @@
+# Python 3.13 (tested 3.13.1), CPU only. Peak RAM ~6 GB per step; ~10 GB disk for work/.
+numpy==2.2.2
+pandas==2.2.3
+pyarrow==25.0.1
+lightgbm==4.6.0
+scikit-learn==1.6.1
+scipy==1.15.1
+minio==7.2.20      # only for downloading organiser data / uploading the submission

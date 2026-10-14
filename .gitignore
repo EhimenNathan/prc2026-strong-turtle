@@ -1,0 +1,14 @@
+# organiser data, external data, derived artifacts and submissions are NOT redistributed
+data/
+work/
+.local_checks/
+submission/
+*.zip
+*.parquet
+*.npz
+*.npy
+*.bin
+__pycache__/
+.env
+credentials*.json
+kaggle*.json
