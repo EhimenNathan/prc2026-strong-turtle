@@ -1,0 +1,5 @@
+{
+  "changed_rows": 35842,
+  "delta_rms": 3.7745941569558696,
+  "cause": "Disable base distillation after nested 2025 regression; no 2026 label-based selection."
+}

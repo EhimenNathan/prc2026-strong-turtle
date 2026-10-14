@@ -1,0 +1,10 @@
+{
+  "status": "Succeeded",
+  "file": "strong-turtle_final.parquet",
+  "bucket": "prc-2026-strong-turtle",
+  "used_pairs": 670790,
+  "inputs": {
+    "test_set_bucket": "prc-2026-datasets",
+    "test_set_file": "final_submitting.parquet"
+  }
+}

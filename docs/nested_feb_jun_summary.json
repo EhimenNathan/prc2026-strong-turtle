@@ -1,0 +1,29 @@
+{
+  "heldout_months_2025": [
+    2,
+    6
+  ],
+  "all_label_training_excludes_holdout": true,
+  "base_rounds": 800,
+  "adsb_rounds": 1600,
+  "adsb_scale": 1.0,
+  "metrics": [
+    {
+      "month": 2,
+      "rows": 143732,
+      "base_sse": 13531803870.80056,
+      "adsb_sse": 12658084712.697014,
+      "base_rmse": 306.8323263982744,
+      "adsb_rmse": 296.76129975675576
+    },
+    {
+      "month": 6,
+      "rows": 183142,
+      "base_sse": 19962228499.361618,
+      "adsb_sse": 18400023820.721313,
+      "base_rmse": 330.14941718204705,
+      "adsb_rmse": 316.9678516806322
+    }
+  ],
+  "scope": "Nested base+ADS-B surrogate; excludes final clock, window, tail, seed averaging and transduction. Feature gates and hyperparameters were selected in earlier 2025 work, so this is not untouched-data certification."
+}

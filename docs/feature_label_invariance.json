@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "departure_targets_perturbed": 4802,
+  "perturbations": [
+    "TAXITIME_SEC_mvt + 1000000",
+    "BLOCK_TIME_UTC_mvt - 30 days"
+  ],
+  "unchanged_artifacts": [
+    "f1.parquet",
+    "f2.parquet",
+    "f3.parquet",
+    "f4.parquet",
+    "f5.parquet",
+    "f6.parquet",
+    "f7.parquet",
+    "f8.parquet",
+    "f9.parquet",
+    "f10.parquet",
+    "f11.parquet",
+    "f12.parquet",
+    "f13.parquet",
+    "f23.parquet",
+    "f29.parquet",
+    "arr.parquet",
+    "state_feats_2025.parquet",
+    "state_feats_2026.parquet",
+    "state_feats2_2025.parquet",
+    "state_feats2_2026.parquet"
+  ],
+  "scope": "Exact frame equality on a small raw fixture after changing historical departure targets. Published arrival labels and observed departure clocks remain unchanged; target encodings belong to later model fits."
+}

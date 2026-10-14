@@ -1,0 +1,108 @@
+{
+  "final_rows": 670790,
+  "unique_template_ids": true,
+  "rank_departure_labels_blank": true,
+  "rows_by_month": {
+    "1": 152719,
+    "2": 144158,
+    "6": 181791,
+    "7": 192122
+  },
+  "identity_2025": {
+    "rows_with_lobt_and_block": 2062577,
+    "violations_3606s": 0,
+    "max_absolute_gap": 3606.0
+  },
+  "feature_row_alignment": {
+    "f1.parquet": 2755837,
+    "f10.parquet": 2755837,
+    "f11.parquet": 2755837,
+    "f12.parquet": 2755837,
+    "f13.parquet": 2755837,
+    "f2.parquet": 2755837,
+    "f23.parquet": 2755837,
+    "f29.parquet": 2755837,
+    "f3.parquet": 2755837,
+    "f4.parquet": 2755837,
+    "f5.parquet": 2755837,
+    "f6.parquet": 2755837,
+    "f7.parquet": 2755837,
+    "f8.parquet": 2755837,
+    "f9.parquet": 2755837
+  },
+  "category_reconstruction": {
+    "APT": {
+      "match": true,
+      "initial": 10,
+      "final": 10
+    },
+    "ADES_mvt": {
+      "match": true,
+      "initial": 1630,
+      "final": 1674
+    },
+    "RUNWAY_mvt": {
+      "match": true,
+      "initial": 58,
+      "final": 58
+    },
+    "STAND_mvt": {
+      "match": true,
+      "initial": 1954,
+      "final": 1971
+    },
+    "AIRCRAFT_TYPE_mvt": {
+      "match": true,
+      "initial": 279,
+      "final": 287
+    },
+    "AIRCRAFT_TYPE_flt": {
+      "match": true,
+      "initial": 248,
+      "final": 255
+    },
+    "WK_TBL_CAT_flt": {
+      "match": true,
+      "initial": 4,
+      "final": 4
+    },
+    "AIRCRAFT_OPERATOR_flt": {
+      "match": true,
+      "initial": 712,
+      "final": 717
+    },
+    "MARKET_SEGMENT_flt": {
+      "match": true,
+      "initial": 8,
+      "final": 8
+    },
+    "FLIGHT_TYPE_flt": {
+      "match": true,
+      "initial": 5,
+      "final": 5
+    },
+    "FLIGHT_RULE_flt": {
+      "match": true,
+      "initial": 4,
+      "final": 4
+    },
+    "FLIGHT_RULE_mvt": {
+      "match": true,
+      "initial": 2,
+      "final": 2
+    },
+    "ADES_FILED_flt": {
+      "match": true,
+      "initial": 1487,
+      "final": 1523
+    },
+    "CALLSIGN_flt": {
+      "match": true,
+      "initial": 85561,
+      "final": 91258
+    }
+  },
+  "base_oof_scope": "Quarter-held-out 2025 base surrogate, 800 rounds at lr=0.05. Not a score for the full final pipeline.",
+  "residual_validation_caveat": "Existing residual month folds reuse quarterly base OOF predictions. Some residual-training base models used the residual validation month labels. This is not fully nested end-to-end cross-validation.",
+  "leaderboard_tuning": "No leaderboard outputs are used by this audit."
+}

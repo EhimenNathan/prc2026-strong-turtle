@@ -1,0 +1,34 @@
+{
+  "rows": 670790,
+  "seeds": 3,
+  "weights": {
+    "selftrain": 0.5,
+    "distillation": 0.0
+  },
+  "months": {
+    "1": 152719,
+    "2": 144158,
+    "6": 181791,
+    "7": 192122
+  },
+  "component_sha256": {
+    "lgbstate2_rank_parts.npz": "05d4c9ff227df76548375e3a7c5d71597bd114f500df77f4b0b67e960a8c5b92",
+    "lgbstate2_rank_s1.npz": "21e489ce9352b24a1724aecbeb5c78bb59b7c9360e0ad48e0f755edc9302d4c7",
+    "lgbstate2_rank_s2.npz": "52bb0dd6a781130e712dce9cc289ba198ecdfcde7eaee3e15b54b484ece20000",
+    "lgbstate2_selftrain_final.npz": "92b29deac32ebab6c406834f79b92aba09bbde7dab3740f24b8d1b2937c27fc4",
+    "corr_slat_sb.parquet": "f3c443e14eff0746fd1745a4f55451b2096bd79bdc78eb98b305c7a6401cee73",
+    "corr_window_state.parquet": "349fed6747cc2523ac44e96fbef32607ce9a2caf74ef89b2ce34324c21c65d6f",
+    "corr_clock_unlinked.parquet": "b829026609524725ae1c6bffa10b765d5686ea002c558eec00ff18a89b2a01b3",
+    "corr_lobt_tail_final.parquet": "5ae8fbb005657446f37e9ba7babe7c22b2e6354ceee61054b6f34d75980c4b34"
+  },
+  "template_sha256": "b3445d80e29bf599a5583ca9675f63ddf57b51fdf1ca3f498facb38ea84f3924",
+  "submission_sha256": "804101603f3cafefaf3f78ff7d70373f1c86ac2cef81e8d69ac5147cd7c7009e",
+  "checks": {
+    "exact_template_ids": true,
+    "unique_ids": true,
+    "finite": true,
+    "nonnegative": true,
+    "lobt_window": true
+  },
+  "uploaded": false
+}

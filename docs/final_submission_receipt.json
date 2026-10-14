@@ -1,0 +1,13 @@
+{
+  "bucket": "prc-2026-strong-turtle",
+  "object": "strong-turtle_final.parquet",
+  "local_sha256": "804101603f3cafefaf3f78ff7d70373f1c86ac2cef81e8d69ac5147cd7c7009e",
+  "rows": 670790,
+  "bytes": 8641562,
+  "state": "uploaded_and_verified",
+  "utc": "2026-10-11T22:36:02.949342+00:00",
+  "etag": "0c726d09bc374e24f44e6982951b562c",
+  "version_id": null,
+  "remote_sha256": "804101603f3cafefaf3f78ff7d70373f1c86ac2cef81e8d69ac5147cd7c7009e",
+  "remote_last_modified": "2026-10-11T22:35:58+00:00"
+}

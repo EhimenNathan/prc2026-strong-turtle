@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "steps": [
+    "build_data",
+    "build_arr",
+    "f1_deltas",
+    "f2_cong",
+    "f2b_fix",
+    "f3_roll",
+    "f4_config",
+    "f5_weather",
+    "f6_struct",
+    "f7_arr",
+    "f8_physics",
+    "f9_kalman",
+    "f10_struct",
+    "f11_latent",
+    "f12_dynamics",
+    "f13_fid",
+    "f23c",
+    "f29_flight",
+    "state_feats",
+    "state_feats_v2"
+  ],
+  "fixture_departures": 6402,
+  "ranking_departures": 1600,
+  "unique_ids": true,
+  "feature_alignment": true,
+  "scope": "Fresh raw-fixture core/state feature rebuild with cached METAR; excludes full-scale fitting, track extraction and full numerical reproduction."
+}

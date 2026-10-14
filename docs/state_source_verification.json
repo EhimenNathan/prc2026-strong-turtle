@@ -1,0 +1,11 @@
+{
+  "state_function_source_equivalence": true,
+  "functions": [
+    "secs",
+    "frames",
+    "build",
+    "rows",
+    "featurise"
+  ],
+  "scope": "AST equality of extracted observable functions against research source; not a full data-pipeline rebuild."
+}

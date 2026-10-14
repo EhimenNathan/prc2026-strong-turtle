@@ -1,0 +1,124 @@
+{
+  "heldout_months_2025": [
+    2,
+    6
+  ],
+  "holdout_truth_used_only_for_scoring": true,
+  "rounds": 800,
+  "blend_weight": 0.5,
+  "metrics": [
+    {
+      "airport": "EDDF",
+      "month": 2,
+      "rows": 378,
+      "treatment_kind": "self_training",
+      "base_rmse": 180.51481534224578,
+      "half_blend_rmse": 176.39760875543493
+    },
+    {
+      "airport": "EDDF",
+      "month": 6,
+      "rows": 757,
+      "treatment_kind": "self_training",
+      "base_rmse": 190.7077704047451,
+      "half_blend_rmse": 186.61575032779754
+    },
+    {
+      "airport": "EGLL",
+      "month": 2,
+      "rows": 3807,
+      "treatment_kind": "self_training",
+      "base_rmse": 225.60706902035304,
+      "half_blend_rmse": 224.86822188399844
+    },
+    {
+      "airport": "EGLL",
+      "month": 6,
+      "rows": 13255,
+      "treatment_kind": "self_training",
+      "base_rmse": 233.73723216464666,
+      "half_blend_rmse": 232.24235018172652
+    },
+    {
+      "airport": "EHAM",
+      "month": 2,
+      "rows": 1431,
+      "treatment_kind": "self_training",
+      "base_rmse": 145.7536885767526,
+      "half_blend_rmse": 144.12650077751636
+    },
+    {
+      "airport": "EHAM",
+      "month": 6,
+      "rows": 467,
+      "treatment_kind": "self_training",
+      "base_rmse": 160.0320173154595,
+      "half_blend_rmse": 158.31178308562642
+    },
+    {
+      "airport": "LEMD",
+      "month": 2,
+      "rows": 15390,
+      "treatment_kind": "self_training",
+      "base_rmse": 143.09251715824084,
+      "half_blend_rmse": 142.2157464693292
+    },
+    {
+      "airport": "LEMD",
+      "month": 6,
+      "rows": 3136,
+      "treatment_kind": "self_training",
+      "base_rmse": 187.75560888820254,
+      "half_blend_rmse": 185.06891900110207
+    },
+    {
+      "airport": "LFPG",
+      "month": 2,
+      "rows": 16801,
+      "treatment_kind": "self_training",
+      "base_rmse": 213.92634737909228,
+      "half_blend_rmse": 208.59101291484785
+    },
+    {
+      "airport": "LFPG",
+      "month": 6,
+      "rows": 19859,
+      "treatment_kind": "self_training",
+      "base_rmse": 248.83183923061924,
+      "half_blend_rmse": 246.6044265592917
+    },
+    {
+      "airport": "LIRF",
+      "month": 2,
+      "rows": 10703,
+      "treatment_kind": "base_distillation",
+      "base_rmse": 676.3652491956176,
+      "half_blend_rmse": 678.8545618472788
+    },
+    {
+      "airport": "LIRF",
+      "month": 6,
+      "rows": 2657,
+      "treatment_kind": "base_distillation",
+      "base_rmse": 636.4873982262249,
+      "half_blend_rmse": 654.9350042357413
+    },
+    {
+      "airport": "LTFM",
+      "month": 2,
+      "rows": 18328,
+      "treatment_kind": "base_distillation",
+      "base_rmse": 527.8179530680115,
+      "half_blend_rmse": 526.7128935631515
+    },
+    {
+      "airport": "LTFM",
+      "month": 6,
+      "rows": 23482,
+      "treatment_kind": "base_distillation",
+      "base_rmse": 206.0358121317421,
+      "half_blend_rmse": 204.94914727397654
+    }
+  ],
+  "scope": "Nested base/ADS-B pseudo-label surrogate. No production seed-noise shrink, clock, window or tail corrections. Earlier feature and parameter choices used 2025 development evidence."
+}

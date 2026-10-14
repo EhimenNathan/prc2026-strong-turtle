@@ -1,0 +1,34 @@
+{
+  "metrics": [
+    {
+      "month": 2,
+      "rows": 143732,
+      "base_rmse": 306.8323263982744,
+      "base_adsb_rmse": 296.76129975675576,
+      "base_adsb_selftrain_rmse": 296.2424743532105,
+      "rmse_gain_day_bootstrap_95pct": [
+        7.8973327717387845,
+        15.280207103932558
+      ]
+    },
+    {
+      "month": 6,
+      "rows": 183142,
+      "base_rmse": 330.14941718204705,
+      "base_adsb_rmse": 316.96785168063224,
+      "base_adsb_selftrain_rmse": 316.6600868520124,
+      "rmse_gain_day_bootstrap_95pct": [
+        9.732136335714243,
+        19.388756326331993
+      ]
+    }
+  ],
+  "bootstrap_replicates": 2000,
+  "bootstrap_unit": "UTC day within month",
+  "decisions": {
+    "self_training_weight": 0.5,
+    "distillation_weight": 0,
+    "reason": "All five self-training airports improved in both nested months. LIRF base distillation worsened both months; LTFM production shrink was already zero."
+  },
+  "scope": "Nested 2025 surrogate; excludes production seed averaging, clock, window, tail and LOBT projection. This holdout informed deployment selection; no 2026 score is known."
+}

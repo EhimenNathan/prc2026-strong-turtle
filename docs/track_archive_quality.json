@@ -1,0 +1,1166 @@
+{
+  "source": "Supplied extraction logs, before any replica repair",
+  "daily_coverage": [
+    {
+      "day": "2026-02-01",
+      "archive_files": 56008,
+      "points": 288109,
+      "ground_aircraft_by_airport": {
+        "EDDF": 325,
+        "EDDM": 264,
+        "EGLL": 477,
+        "EHAM": 432,
+        "LEBL": 326,
+        "LEMD": 388,
+        "LFPG": 286,
+        "LIRF": 250,
+        "LSZH": 251,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2999,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-02",
+      "archive_files": 63223,
+      "points": 313604,
+      "ground_aircraft_by_airport": {
+        "EDDF": 298,
+        "EDDM": 266,
+        "EGLL": 477,
+        "EHAM": 433,
+        "LEBL": 319,
+        "LEMD": 347,
+        "LFPG": 310,
+        "LIRF": 251,
+        "LSZH": 256,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2957,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-03",
+      "archive_files": 67255,
+      "points": 283361,
+      "ground_aircraft_by_airport": {
+        "EDDF": 194,
+        "EDDM": 247,
+        "EGLL": 469,
+        "EHAM": 397,
+        "LEBL": 251,
+        "LEMD": 329,
+        "LFPG": 293,
+        "LIRF": 199,
+        "LSZH": 228,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2607,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-04",
+      "archive_files": 68237,
+      "points": 287666,
+      "ground_aircraft_by_airport": {
+        "EDDF": 264,
+        "EDDM": 259,
+        "EGLL": 475,
+        "EHAM": 420,
+        "LEBL": 265,
+        "LEMD": 321,
+        "LFPG": 335,
+        "LIRF": 191,
+        "LSZH": 240,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2770,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-05",
+      "archive_files": 69387,
+      "points": 305033,
+      "ground_aircraft_by_airport": {
+        "EDDF": 317,
+        "EDDM": 253,
+        "EGLL": 475,
+        "EHAM": 450,
+        "LEBL": 314,
+        "LEMD": 323,
+        "LFPG": 344,
+        "LIRF": 224,
+        "LSZH": 255,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2955,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-07",
+      "archive_files": 62678,
+      "points": 274359,
+      "ground_aircraft_by_airport": {
+        "EDDF": 284,
+        "EDDM": 241,
+        "EGLL": 477,
+        "EHAM": 410,
+        "LEBL": 280,
+        "LEMD": 349,
+        "LFPG": 207,
+        "LIRF": 223,
+        "LSZH": 241,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2712,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-06",
+      "archive_files": 71670,
+      "points": 313183,
+      "ground_aircraft_by_airport": {
+        "EDDF": 314,
+        "EDDM": 267,
+        "EGLL": 479,
+        "EHAM": 437,
+        "LEBL": 344,
+        "LEMD": 403,
+        "LFPG": 260,
+        "LIRF": 249,
+        "LSZH": 267,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3020,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-08",
+      "archive_files": 59420,
+      "points": 315377,
+      "ground_aircraft_by_airport": {
+        "EDDF": 329,
+        "EDDM": 255,
+        "EGLL": 479,
+        "EHAM": 447,
+        "LEBL": 336,
+        "LEMD": 386,
+        "LFPG": 270,
+        "LIRF": 241,
+        "LSZH": 266,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3009,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-10",
+      "archive_files": 69351,
+      "points": 279999,
+      "ground_aircraft_by_airport": {
+        "EDDF": 296,
+        "EDDM": 239,
+        "EGLL": 460,
+        "EHAM": 401,
+        "LEBL": 249,
+        "LEMD": 366,
+        "LFPG": 250,
+        "LIRF": 190,
+        "LSZH": 246,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2697,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-09",
+      "archive_files": 67071,
+      "points": 307450,
+      "ground_aircraft_by_airport": {
+        "EDDF": 309,
+        "EDDM": 258,
+        "EGLL": 479,
+        "EHAM": 438,
+        "LEBL": 326,
+        "LEMD": 379,
+        "LFPG": 304,
+        "LIRF": 269,
+        "LSZH": 262,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3024,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-11",
+      "archive_files": 67303,
+      "points": 275478,
+      "ground_aircraft_by_airport": {
+        "EDDF": 250,
+        "EDDM": 248,
+        "EGLL": 476,
+        "EHAM": 407,
+        "LEBL": 278,
+        "LEMD": 363,
+        "LFPG": 250,
+        "LIRF": 202,
+        "LSZH": 246,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2720,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-12",
+      "archive_files": 74541,
+      "points": 277803,
+      "ground_aircraft_by_airport": {
+        "EDDF": 183,
+        "EDDM": 204,
+        "EGLL": 471,
+        "EHAM": 426,
+        "LEBL": 292,
+        "LEMD": 393,
+        "LFPG": 275,
+        "LIRF": 237,
+        "LSZH": 255,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2736,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-13",
+      "archive_files": 75498,
+      "points": 319369,
+      "ground_aircraft_by_airport": {
+        "EDDF": 318,
+        "EDDM": 313,
+        "EGLL": 498,
+        "EHAM": 450,
+        "LEBL": 350,
+        "LEMD": 350,
+        "LFPG": 278,
+        "LIRF": 265,
+        "LSZH": 279,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3101,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-15",
+      "archive_files": 56413,
+      "points": 316717,
+      "ground_aircraft_by_airport": {
+        "EDDF": 284,
+        "EDDM": 281,
+        "EGLL": 460,
+        "EHAM": 386,
+        "LEBL": 327,
+        "LEMD": 374,
+        "LFPG": 169,
+        "LIRF": 251,
+        "LSZH": 269,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2801,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-14",
+      "archive_files": 64771,
+      "points": 295926,
+      "ground_aircraft_by_airport": {
+        "EDDF": 314,
+        "EDDM": 300,
+        "EGLL": 478,
+        "EHAM": 425,
+        "LEBL": 301,
+        "LEMD": 361,
+        "LFPG": 241,
+        "LIRF": 220,
+        "LSZH": 273,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2913,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-16",
+      "archive_files": 59271,
+      "points": 318215,
+      "ground_aircraft_by_airport": {
+        "EDDF": 311,
+        "EDDM": 272,
+        "EGLL": 472,
+        "EHAM": 454,
+        "LEBL": 347,
+        "LEMD": 415,
+        "LFPG": 156,
+        "LIRF": 272,
+        "LSZH": 274,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2973,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-17",
+      "archive_files": 62054,
+      "points": 317562,
+      "ground_aircraft_by_airport": {
+        "EDDF": 301,
+        "EDDM": 252,
+        "EGLL": 475,
+        "EHAM": 427,
+        "LEBL": 282,
+        "LEMD": 383,
+        "LFPG": 219,
+        "LIRF": 218,
+        "LSZH": 257,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2814,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-19",
+      "archive_files": 63658,
+      "points": 309770,
+      "ground_aircraft_by_airport": {
+        "EDDF": 273,
+        "EDDM": 270,
+        "EGLL": 473,
+        "EHAM": 423,
+        "LEBL": 315,
+        "LEMD": 404,
+        "LFPG": 222,
+        "LIRF": 248,
+        "LSZH": 267,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2895,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-20",
+      "archive_files": 65793,
+      "points": 353180,
+      "ground_aircraft_by_airport": {
+        "EDDF": 303,
+        "EDDM": 285,
+        "EGLL": 486,
+        "EHAM": 457,
+        "LEBL": 358,
+        "LEMD": 440,
+        "LFPG": 195,
+        "LIRF": 266,
+        "LSZH": 278,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3068,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-18",
+      "archive_files": 61256,
+      "points": 304736,
+      "ground_aircraft_by_airport": {
+        "EDDF": 329,
+        "EDDM": 268,
+        "EGLL": 484,
+        "EHAM": 440,
+        "LEBL": 277,
+        "LEMD": 381,
+        "LFPG": 329,
+        "LIRF": 214,
+        "LSZH": 247,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2969,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-21",
+      "archive_files": 63984,
+      "points": 326797,
+      "ground_aircraft_by_airport": {
+        "EDDF": 302,
+        "EDDM": 272,
+        "EGLL": 472,
+        "EHAM": 441,
+        "LEBL": 299,
+        "LEMD": 383,
+        "LFPG": 177,
+        "LIRF": 222,
+        "LSZH": 269,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2837,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-22",
+      "archive_files": 54891,
+      "points": 328290,
+      "ground_aircraft_by_airport": {
+        "EDDF": 297,
+        "EDDM": 275,
+        "EGLL": 479,
+        "EHAM": 456,
+        "LEBL": 358,
+        "LEMD": 423,
+        "LFPG": 180,
+        "LIRF": 248,
+        "LSZH": 276,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2992,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-23",
+      "archive_files": 60869,
+      "points": 329188,
+      "ground_aircraft_by_airport": {
+        "EDDF": 289,
+        "EDDM": 278,
+        "EGLL": 445,
+        "EHAM": 436,
+        "LEBL": 342,
+        "LEMD": 420,
+        "LFPG": 221,
+        "LIRF": 243,
+        "LSZH": 262,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2936,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-24",
+      "archive_files": 67743,
+      "points": 327657,
+      "ground_aircraft_by_airport": {
+        "EDDF": 295,
+        "EDDM": 265,
+        "EGLL": 445,
+        "EHAM": 405,
+        "LEBL": 285,
+        "LEMD": 381,
+        "LFPG": 267,
+        "LIRF": 202,
+        "LSZH": 260,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2805,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-25",
+      "archive_files": 71746,
+      "points": 326101,
+      "ground_aircraft_by_airport": {
+        "EDDF": 308,
+        "EDDM": 275,
+        "EGLL": 466,
+        "EHAM": 423,
+        "LEBL": 301,
+        "LEMD": 400,
+        "LFPG": 295,
+        "LIRF": 218,
+        "LSZH": 272,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2958,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-27",
+      "archive_files": 78342,
+      "points": 350304,
+      "ground_aircraft_by_airport": {
+        "EDDF": 323,
+        "EDDM": 290,
+        "EGLL": 473,
+        "EHAM": 461,
+        "LEBL": 347,
+        "LEMD": 441,
+        "LFPG": 255,
+        "LIRF": 248,
+        "LSZH": 283,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3121,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-26",
+      "archive_files": 74559,
+      "points": 332854,
+      "ground_aircraft_by_airport": {
+        "EDDF": 310,
+        "EDDM": 277,
+        "EGLL": 480,
+        "EHAM": 437,
+        "LEBL": 331,
+        "LEMD": 412,
+        "LFPG": 258,
+        "LIRF": 173,
+        "LSZH": 279,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2957,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-02-28",
+      "archive_files": 71023,
+      "points": 304867,
+      "ground_aircraft_by_airport": {
+        "EDDF": 294,
+        "EDDM": 253,
+        "EGLL": 445,
+        "EHAM": 411,
+        "LEBL": 281,
+        "LEMD": 366,
+        "LFPG": 207,
+        "LIRF": 214,
+        "LSZH": 236,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2707,
+      "monthly_median_ground_aircraft_sum": 2945.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-04",
+      "archive_files": 72727,
+      "points": 371322,
+      "ground_aircraft_by_airport": {
+        "EDDF": 411,
+        "EDDM": 304,
+        "EGLL": 497,
+        "EHAM": 463,
+        "LEBL": 412,
+        "LEMD": 451,
+        "LFPG": 407,
+        "LIRF": 0,
+        "LSZH": 299,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3244,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-01",
+      "archive_files": 67156,
+      "points": 359236,
+      "ground_aircraft_by_airport": {
+        "EDDF": 424,
+        "EDDM": 326,
+        "EGLL": 509,
+        "EHAM": 459,
+        "LEBL": 425,
+        "LEMD": 447,
+        "LFPG": 345,
+        "LIRF": 1,
+        "LSZH": 305,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3241,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-02",
+      "archive_files": 69309,
+      "points": 355960,
+      "ground_aircraft_by_airport": {
+        "EDDF": 393,
+        "EDDM": 297,
+        "EGLL": 510,
+        "EHAM": 445,
+        "LEBL": 385,
+        "LEMD": 398,
+        "LFPG": 428,
+        "LIRF": 0,
+        "LSZH": 281,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3137,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-03",
+      "archive_files": 72425,
+      "points": 363386,
+      "ground_aircraft_by_airport": {
+        "EDDF": 427,
+        "EDDM": 310,
+        "EGLL": 511,
+        "EHAM": 460,
+        "LEBL": 389,
+        "LEMD": 430,
+        "LFPG": 411,
+        "LIRF": 0,
+        "LSZH": 289,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3227,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-06",
+      "archive_files": 48756,
+      "points": 210720,
+      "ground_aircraft_by_airport": {
+        "EDDF": 308,
+        "EDDM": 212,
+        "EGLL": 358,
+        "EHAM": 310,
+        "LEBL": 267,
+        "LEMD": 301,
+        "LFPG": 218,
+        "LIRF": 0,
+        "LSZH": 197,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2171,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": true
+    },
+    {
+      "day": "2026-06-05",
+      "archive_files": 72931,
+      "points": 384647,
+      "ground_aircraft_by_airport": {
+        "EDDF": 433,
+        "EDDM": 333,
+        "EGLL": 514,
+        "EHAM": 477,
+        "LEBL": 406,
+        "LEMD": 444,
+        "LFPG": 382,
+        "LIRF": 0,
+        "LSZH": 304,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3293,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-07",
+      "archive_files": 49991,
+      "points": 329337,
+      "ground_aircraft_by_airport": {
+        "EDDF": 340,
+        "EDDM": 253,
+        "EGLL": 416,
+        "EHAM": 361,
+        "LEBL": 325,
+        "LEMD": 348,
+        "LFPG": 277,
+        "LIRF": 0,
+        "LSZH": 245,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2565,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-08",
+      "archive_files": 66838,
+      "points": 387178,
+      "ground_aircraft_by_airport": {
+        "EDDF": 423,
+        "EDDM": 335,
+        "EGLL": 509,
+        "EHAM": 464,
+        "LEBL": 406,
+        "LEMD": 440,
+        "LFPG": 391,
+        "LIRF": 0,
+        "LSZH": 329,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3297,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-09",
+      "archive_files": 66901,
+      "points": 307228,
+      "ground_aircraft_by_airport": {
+        "EDDF": 353,
+        "EDDM": 269,
+        "EGLL": 448,
+        "EHAM": 388,
+        "LEBL": 304,
+        "LEMD": 358,
+        "LFPG": 365,
+        "LIRF": 0,
+        "LSZH": 245,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2730,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-11",
+      "archive_files": 42789,
+      "points": 15816,
+      "ground_aircraft_by_airport": {
+        "EDDF": 0,
+        "EDDM": 92,
+        "EGLL": 0,
+        "EHAM": 1,
+        "LEBL": 0,
+        "LEMD": 0,
+        "LFPG": 0,
+        "LIRF": 0,
+        "LSZH": 0,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 93,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": true
+    },
+    {
+      "day": "2026-06-10",
+      "archive_files": 67274,
+      "points": 348282,
+      "ground_aircraft_by_airport": {
+        "EDDF": 416,
+        "EDDM": 308,
+        "EGLL": 508,
+        "EHAM": 458,
+        "LEBL": 389,
+        "LEMD": 442,
+        "LFPG": 410,
+        "LIRF": 0,
+        "LSZH": 183,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3114,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-12",
+      "archive_files": 71513,
+      "points": 391420,
+      "ground_aircraft_by_airport": {
+        "EDDF": 411,
+        "EDDM": 332,
+        "EGLL": 518,
+        "EHAM": 456,
+        "LEBL": 433,
+        "LEMD": 460,
+        "LFPG": 356,
+        "LIRF": 0,
+        "LSZH": 321,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3287,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-13",
+      "archive_files": 70619,
+      "points": 407747,
+      "ground_aircraft_by_airport": {
+        "EDDF": 433,
+        "EDDM": 293,
+        "EGLL": 513,
+        "EHAM": 446,
+        "LEBL": 391,
+        "LEMD": 435,
+        "LFPG": 331,
+        "LIRF": 0,
+        "LSZH": 271,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3113,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-15",
+      "archive_files": 70206,
+      "points": 449547,
+      "ground_aircraft_by_airport": {
+        "EDDF": 410,
+        "EDDM": 322,
+        "EGLL": 515,
+        "EHAM": 475,
+        "LEBL": 444,
+        "LEMD": 465,
+        "LFPG": 455,
+        "LIRF": 0,
+        "LSZH": 305,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3391,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-14",
+      "archive_files": 64239,
+      "points": 452845,
+      "ground_aircraft_by_airport": {
+        "EDDF": 429,
+        "EDDM": 318,
+        "EGLL": 513,
+        "EHAM": 476,
+        "LEBL": 437,
+        "LEMD": 472,
+        "LFPG": 361,
+        "LIRF": 0,
+        "LSZH": 303,
+        "LTFM": 9
+      },
+      "ground_aircraft_sum": 3318,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-16",
+      "archive_files": 73214,
+      "points": 402945,
+      "ground_aircraft_by_airport": {
+        "EDDF": 384,
+        "EDDM": 314,
+        "EGLL": 504,
+        "EHAM": 450,
+        "LEBL": 394,
+        "LEMD": 452,
+        "LFPG": 339,
+        "LIRF": 0,
+        "LSZH": 287,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3124,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-18",
+      "archive_files": 71387,
+      "points": 443029,
+      "ground_aircraft_by_airport": {
+        "EDDF": 406,
+        "EDDM": 319,
+        "EGLL": 506,
+        "EHAM": 466,
+        "LEBL": 422,
+        "LEMD": 453,
+        "LFPG": 377,
+        "LIRF": 1,
+        "LSZH": 309,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3259,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-17",
+      "archive_files": 73046,
+      "points": 418304,
+      "ground_aircraft_by_airport": {
+        "EDDF": 410,
+        "EDDM": 324,
+        "EGLL": 510,
+        "EHAM": 457,
+        "LEBL": 409,
+        "LEMD": 447,
+        "LFPG": 381,
+        "LIRF": 0,
+        "LSZH": 309,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3247,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-19",
+      "archive_files": 73357,
+      "points": 418062,
+      "ground_aircraft_by_airport": {
+        "EDDF": 435,
+        "EDDM": 311,
+        "EGLL": 502,
+        "EHAM": 471,
+        "LEBL": 410,
+        "LEMD": 471,
+        "LFPG": 374,
+        "LIRF": 0,
+        "LSZH": 307,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3281,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-20",
+      "archive_files": 68315,
+      "points": 382708,
+      "ground_aircraft_by_airport": {
+        "EDDF": 416,
+        "EDDM": 273,
+        "EGLL": 503,
+        "EHAM": 440,
+        "LEBL": 389,
+        "LEMD": 409,
+        "LFPG": 332,
+        "LIRF": 1,
+        "LSZH": 281,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3044,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-23",
+      "archive_files": 52074,
+      "points": 280255,
+      "ground_aircraft_by_airport": {
+        "EDDF": 277,
+        "EDDM": 203,
+        "EGLL": 324,
+        "EHAM": 286,
+        "LEBL": 239,
+        "LEMD": 307,
+        "LFPG": 312,
+        "LIRF": 0,
+        "LSZH": 175,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 2123,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": true
+    },
+    {
+      "day": "2026-06-22",
+      "archive_files": 74768,
+      "points": 468382,
+      "ground_aircraft_by_airport": {
+        "EDDF": 441,
+        "EDDM": 319,
+        "EGLL": 507,
+        "EHAM": 469,
+        "LEBL": 417,
+        "LEMD": 452,
+        "LFPG": 445,
+        "LIRF": 12,
+        "LSZH": 285,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3347,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-21",
+      "archive_files": 69997,
+      "points": 426501,
+      "ground_aircraft_by_airport": {
+        "EDDF": 438,
+        "EDDM": 314,
+        "EGLL": 515,
+        "EHAM": 476,
+        "LEBL": 380,
+        "LEMD": 446,
+        "LFPG": 408,
+        "LIRF": 0,
+        "LSZH": 292,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3269,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-25",
+      "archive_files": 26857,
+      "points": 135575,
+      "ground_aircraft_by_airport": {
+        "EDDF": 144,
+        "EDDM": 90,
+        "EGLL": 169,
+        "EHAM": 140,
+        "LEBL": 127,
+        "LEMD": 141,
+        "LFPG": 151,
+        "LIRF": 0,
+        "LSZH": 98,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 1060,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": true
+    },
+    {
+      "day": "2026-06-24",
+      "archive_files": 85301,
+      "points": 434308,
+      "ground_aircraft_by_airport": {
+        "EDDF": 435,
+        "EDDM": 324,
+        "EGLL": 504,
+        "EHAM": 453,
+        "LEBL": 408,
+        "LEMD": 441,
+        "LFPG": 465,
+        "LIRF": 1,
+        "LSZH": 300,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3331,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-27",
+      "archive_files": 69086,
+      "points": 415658,
+      "ground_aircraft_by_airport": {
+        "EDDF": 428,
+        "EDDM": 285,
+        "EGLL": 500,
+        "EHAM": 429,
+        "LEBL": 381,
+        "LEMD": 417,
+        "LFPG": 392,
+        "LIRF": 0,
+        "LSZH": 269,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3101,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-26",
+      "archive_files": 78961,
+      "points": 433760,
+      "ground_aircraft_by_airport": {
+        "EDDF": 442,
+        "EDDM": 319,
+        "EGLL": 514,
+        "EHAM": 459,
+        "LEBL": 416,
+        "LEMD": 464,
+        "LFPG": 446,
+        "LIRF": 0,
+        "LSZH": 310,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3370,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-28",
+      "archive_files": 67630,
+      "points": 431641,
+      "ground_aircraft_by_airport": {
+        "EDDF": 423,
+        "EDDM": 307,
+        "EGLL": 523,
+        "EHAM": 458,
+        "LEBL": 384,
+        "LEMD": 447,
+        "LFPG": 422,
+        "LIRF": 0,
+        "LSZH": 303,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3267,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-29",
+      "archive_files": 74824,
+      "points": 403424,
+      "ground_aircraft_by_airport": {
+        "EDDF": 426,
+        "EDDM": 300,
+        "EGLL": 514,
+        "EHAM": 459,
+        "LEBL": 417,
+        "LEMD": 434,
+        "LFPG": 393,
+        "LIRF": 0,
+        "LSZH": 302,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3245,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    },
+    {
+      "day": "2026-06-30",
+      "archive_files": 79172,
+      "points": 370626,
+      "ground_aircraft_by_airport": {
+        "EDDF": 427,
+        "EDDM": 291,
+        "EGLL": 509,
+        "EHAM": 450,
+        "LEBL": 393,
+        "LEMD": 426,
+        "LFPG": 423,
+        "LIRF": 0,
+        "LSZH": 270,
+        "LTFM": 0
+      },
+      "ground_aircraft_sum": 3189,
+      "monthly_median_ground_aircraft_sum": 3242.5,
+      "sparse_below_75pct_median": false
+    }
+  ],
+  "scope": "Label-free airport-day aircraft counts. Sparse flags are screening heuristics, not a proof of download corruption or of missing public data."
+}
